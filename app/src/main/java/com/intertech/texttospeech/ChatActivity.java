@@ -68,7 +68,6 @@ public class ChatActivity extends AppCompatActivity {
             }
         });
 
-
         mContext = getApplicationContext();
 
         inputMessage = findViewById(R.id.message);
